@@ -2,14 +2,14 @@ field,display_name,browse_link
 title,Title,
 creator,Creator,
 date,Date Created,
+date is approximate?,Date Is Approximate?
 description,Description,
 subject,Subjects,true
 location,Location
-latitude,Latitude
-longitude,Longitude
 source,Source
 identifier,Source Identifier
 type,Type,
 format,Format,
+format original,Original Format
 rights,Rights,
-rightsstatement,Rights Statement,
+rights (standardized),Rights Statement,
